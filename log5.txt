@@ -1,0 +1,108 @@
+Scrapping Walmart.com
+TimeoutError: waiting for selector "a.product-title-link" failed: timeout 30000ms exceeded In Scrapping Walmart
+Scrapping Ebay.com
+[ 'https://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-CDMA-GSM-FACTORY-UNLOCKED-AT-T-VERIZON-SPRINT/223491497371?epid=0&hash=item3409219d9b:m:mIMp0HYtqLiD_zFjjHovjDw',
+  'https://www.ebay.com/itm/Apple-iPhone-XR-64GB-All-Colors-GSM-CDMA-Unlocked-Brand-New/163335648730?epid=13023706562&hash=item26079035da:m:mISUcmRoab0x5ITaq3yvzPg:sc:USPSPriorityMailPaddedFlatRateEnvelope!90815!US!-1',
+  'https://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-Verizon-AT-T-Sprint-T-Mobile-Smartphone/173727822994?epid=14023707718&hash=item2872fc3492:m:mnSput7UrJn0TI7tIheyKAQ',
+  'https://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-Black-White-Red-Coral-Yellow-Blue/273677369436?var=&hash=item3fb871405c&enc=AQADAAAC8FjVrDbVsZ8oH%2F8PNHtt9VX4%2Fw7FZcmMuqsX8uaFEduVOCV56O85oZDpsl5MZ%2FddMzlb4xjkJQCM6rlRKlZhOBRWllO9ZgcvYIsTjluzLrL5TfWQdlyzSBCYtXOL2QyN0TSF1TFXEewsF4IZj3e9a26QnykuseCLG4R56phXDPuR8t29yK0GkEjXQNQu%2B0IkboKVPiALAcyfsKR8ZhUj8wMScTBaqf4gjCyW1HxRnVev%2FB5AwYqeknaoVeC301xaHfKQzhVMpjTM3g1Y9jTBpibJN2NaoyTSbTrogUlb%2BtIxez9v%2BWWuOwOdirgsiIKFQJoDgcRn6A7GotoFB7qTu72epJKkDIwNZrMpoQ4GmrGKZTh4EdHWbw0G%2FVyeMRLnTtx3PDctMPGYj0eqxhW6ELNme%2F4gqxKzl%2F6z3aV5oekUF4G%2BqnkPAL4kRSLPCJsZ6KlQ7Wvce%2BRXKQwFI2S86it2sIf4j%2B7dK4zPYCy7nEqGicMIEn5mUGPyegKN1trpq%2B%2BNMniM%2FMGuvpLBSu1FKgd0z5kGTKGmXa0FL7wF6xcovtStxMq%2BH%2FU8atiB4Tr6t8%2FWlDqQBAtQrRHlBlbH%2B7b8GsldK%2BDvUrtHt1BGE7QEETMbG7UCIVvAcMaLT%2FcdtBkocBHj%2B4y3WnfpCDY%2FqmN9hwZCnAxNR3AO%2BAD6TZzD9RXXjncQT0BSjUMRgI%2B5Mdvf05KdRe4O85ARDO1pOzWLTY280sxEh5n4gMIixK4M6tD4hztI3iG%2Fuqj9wzTAaQVaQ0rtFpU2Hhb8w3Nqm3mrLtQK2mu1mPNEBeBQao6CqXTcGkb95h%2FaGFw0tziICa68VsmLf9eXwujuopWLoFwb1SJTrniBlFO7jgBkgQUWe%2Bd%2FgGUgPl%2Fe6%2BibG%2BGm3uv8ESdFc8tnYWwSVB4HfMYSTHQVvR1occcVCLELMAqZ9gx3pMaWsnFHJbAvHiMjwgw%2FyLZp92YpL2MLIsXwxW13S%2FXfE300r13aZApG8ewO&checksum=27367736943602b480d1ecf644e796f9773d354a36f7',
+  'https://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-Verizon-AT-T-Sprint-T-Mobile-Smartphone/173727822994?var=&hash=item2872fc3492&enc=AQADAAADAFjVrDbVsZ8oH%2F8PNHtt9VX4%2Fw7FZcmMuqsX8uaFEduV2zRC4CoejXU9X%2FGcptxVxLrxPpiFpSHdGv63xz6IRHKKVkTmbh62R6611jI%2BFEFi41xsxJVLT73PF5%2Bzdz1XLKJwffVCnpCknokcCffTXxzFa%2FiC0boHdp1ReZyTHTrjQpXeU0Cn8puyNp2bEXAr8ew1TaAvDZnXKZCHGieLYsYH%2BS2Kw3tbEixMwwlWIFwzWvRz7BnFroO7sAptmgZsw%2FfLCZMNQ3wDmD7Vocw21zLMKBOsghVSZYnDSB0ui6QUheNnKtIschOKswe58MJOqBQUm8Yk5D2hfMbNUQhiBXjfzs%2BvV5Q3MMXtC6k8ZGvZ2pOJ86LGp9zqfYBkg2ChH2xQRdj0j7DSJYkUFUzGMeJLkWAfMAPrpR9bUNnHOaX75Sgf%2FbrI5SgT2W3FxkAUQv2A6Jn1loyXiirHGGBQBEJdfTyHfB0qne6Nwzro7uAGOMmbXfeVutm958eys3qo2dB2mPvY0IRkJdLK2k%2Fd%2BQbNx5EG1TWRkVwgk58YUe4JDAAruC8WYg5MAslpiG%2Bay%2BwxpDKUXqMHZEpneGyxhlscddAjvaQYnIi5h1QOJuTyMkMd5P7HtZT%2B%2FoEavoQd7%2FWGRtvUm9sB2Gd57XvvWB%2BokvEEOk33PlcYrJybzQU9ASZMFURm5lkfV3FkbfH44g5rYAzDOytxe1cOu8iCkTwP3CCcm5LYRZ8eWm6IN8IC6nPj5vcDJIXic%2FJ%2BKpn8ovIOZGNIPNVHUcN18VOSpNgXjXzDEKEVQiSZVysROmN%2FNB3psYNl2KGtC4%2FcTu7IYcp5tvavc89O6ntk7YW42LttVqdCKkA0haGJdLjwVD3J7s23hwdzhf%2FeV9YmkaQB4Ji82HBBrT1PC0Cr2ZfA5GVoxOZ2PUwjePr8lyjYjZepHIqi%2F7UWlKcpkIeRKkQjwlUhZech1JuFfMyjZmikt0%2FJWhwIRxn5REKVl0Smaeciabjf0GUx1R3vCiK9%2Fxx0sQ%3D%3D&checksum=173727822994d77e92adf4144cb7a9b8ac8a81867aa2',
+  'https://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-Black-White-Red-Coral-Yellow-Blue/273677369436?epid=27023701813&hash=item3fb871405c:m:mQeHUzi9Gm8FdeJ_1TqG-gQ',
+  'https://www.ebay.com/itm/Apple-iPhone-XR-64GB-RED-Product-RED-A1984-AT-T-version-GSM-CDMA-NEW/163551593441?epid=5023709650&hash=item26146f43e1:g:IWAAAOSwJFhbmjVZ:sc:USPSPriorityMailPaddedFlatRateEnvelope!90815!US!-1',
+  'https://www.ebay.com/itm/Apple-iPhone-XR-64GB-Black-Unlocked-A1984-GSM/223488441612?epid=13023706562&hash=item3408f2fd0c:g:HYAAAOSwjlVcDJnd:sc:USPSPriorityMailPaddedFlatRateEnvelope!90815!US!-1',
+  'https://www.ebay.com/itm/Apple-iPhone-XR-64GB-PRODUCT-RED-Unlocked-A1984-GSM/323796220818?epid=8023710610&hash=item4b63c23b92:g:JWEAAOSwy2pcFw3V:sc:USPSPriority!90815!US!-1',
+  'https://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-UNLOCKED-WITH-RSIM-12-AT-T-TMOBILE-SHIPS-SAME-DAY/223495694902?hash=item340961aa36:m:mIMp0HYtqLiD_zFjjHovjDw' ]
+Error: net::ERR_NAME_NOT_RESOLVED at https://www.ebay.comhttps://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-CDMA-GSM-FACTORY-UNLOCKED-AT-T-VERIZON-SPRINT/223491497371?epid=0&hash=item3409219d9b:m:mIMp0HYtqLiD_zFjjHovjDw
+    at navigate (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\FrameManager.js:121:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at Frame.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:110:27)
+    at Page.goto (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\Page.js:629:49)
+    at Page.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:111:23)
+    at scrapeEbay (G:\College\STCS\ProjectFiles\sample.js:350:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: net::ERR_NAME_NOT_RESOLVED at https://www.ebay.comhttps://www.ebay.com/itm/Apple-iPhone-XR-64GB-All-Colors-GSM-CDMA-Unlocked-Brand-New/163335648730?epid=13023706562&hash=item26079035da:m:mISUcmRoab0x5ITaq3yvzPg:sc:USPSPriorityMailPaddedFlatRateEnvelope!90815!US!-1
+    at navigate (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\FrameManager.js:121:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at Frame.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:110:27)
+    at Page.goto (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\Page.js:629:49)
+    at Page.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:111:23)
+    at scrapeEbay (G:\College\STCS\ProjectFiles\sample.js:350:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: net::ERR_NAME_NOT_RESOLVED at https://www.ebay.comhttps://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-Verizon-AT-T-Sprint-T-Mobile-Smartphone/173727822994?epid=14023707718&hash=item2872fc3492:m:mnSput7UrJn0TI7tIheyKAQ
+    at navigate (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\FrameManager.js:121:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at Frame.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:110:27)
+    at Page.goto (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\Page.js:629:49)
+    at Page.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:111:23)
+    at scrapeEbay (G:\College\STCS\ProjectFiles\sample.js:350:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: net::ERR_NAME_NOT_RESOLVED at https://www.ebay.comhttps://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-Black-White-Red-Coral-Yellow-Blue/273677369436?var=&hash=item3fb871405c&enc=AQADAAAC8FjVrDbVsZ8oH%2F8PNHtt9VX4%2Fw7FZcmMuqsX8uaFEduVOCV56O85oZDpsl5MZ%2FddMzlb4xjkJQCM6rlRKlZhOBRWllO9ZgcvYIsTjluzLrL5TfWQdlyzSBCYtXOL2QyN0TSF1TFXEewsF4IZj3e9a26QnykuseCLG4R56phXDPuR8t29yK0GkEjXQNQu%2B0IkboKVPiALAcyfsKR8ZhUj8wMScTBaqf4gjCyW1HxRnVev%2FB5AwYqeknaoVeC301xaHfKQzhVMpjTM3g1Y9jTBpibJN2NaoyTSbTrogUlb%2BtIxez9v%2BWWuOwOdirgsiIKFQJoDgcRn6A7GotoFB7qTu72epJKkDIwNZrMpoQ4GmrGKZTh4EdHWbw0G%2FVyeMRLnTtx3PDctMPGYj0eqxhW6ELNme%2F4gqxKzl%2F6z3aV5oekUF4G%2BqnkPAL4kRSLPCJsZ6KlQ7Wvce%2BRXKQwFI2S86it2sIf4j%2B7dK4zPYCy7nEqGicMIEn5mUGPyegKN1trpq%2B%2BNMniM%2FMGuvpLBSu1FKgd0z5kGTKGmXa0FL7wF6xcovtStxMq%2BH%2FU8atiB4Tr6t8%2FWlDqQBAtQrRHlBlbH%2B7b8GsldK%2BDvUrtHt1BGE7QEETMbG7UCIVvAcMaLT%2FcdtBkocBHj%2B4y3WnfpCDY%2FqmN9hwZCnAxNR3AO%2BAD6TZzD9RXXjncQT0BSjUMRgI%2B5Mdvf05KdRe4O85ARDO1pOzWLTY280sxEh5n4gMIixK4M6tD4hztI3iG%2Fuqj9wzTAaQVaQ0rtFpU2Hhb8w3Nqm3mrLtQK2mu1mPNEBeBQao6CqXTcGkb95h%2FaGFw0tziICa68VsmLf9eXwujuopWLoFwb1SJTrniBlFO7jgBkgQUWe%2Bd%2FgGUgPl%2Fe6%2BibG%2BGm3uv8ESdFc8tnYWwSVB4HfMYSTHQVvR1occcVCLELMAqZ9gx3pMaWsnFHJbAvHiMjwgw%2FyLZp92YpL2MLIsXwxW13S%2FXfE300r13aZApG8ewO&checksum=27367736943602b480d1ecf644e796f9773d354a36f7
+    at navigate (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\FrameManager.js:121:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at Frame.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:110:27)
+    at Page.goto (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\Page.js:629:49)
+    at Page.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:111:23)
+    at scrapeEbay (G:\College\STCS\ProjectFiles\sample.js:350:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: net::ERR_NAME_NOT_RESOLVED at https://www.ebay.comhttps://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-Verizon-AT-T-Sprint-T-Mobile-Smartphone/173727822994?var=&hash=item2872fc3492&enc=AQADAAADAFjVrDbVsZ8oH%2F8PNHtt9VX4%2Fw7FZcmMuqsX8uaFEduV2zRC4CoejXU9X%2FGcptxVxLrxPpiFpSHdGv63xz6IRHKKVkTmbh62R6611jI%2BFEFi41xsxJVLT73PF5%2Bzdz1XLKJwffVCnpCknokcCffTXxzFa%2FiC0boHdp1ReZyTHTrjQpXeU0Cn8puyNp2bEXAr8ew1TaAvDZnXKZCHGieLYsYH%2BS2Kw3tbEixMwwlWIFwzWvRz7BnFroO7sAptmgZsw%2FfLCZMNQ3wDmD7Vocw21zLMKBOsghVSZYnDSB0ui6QUheNnKtIschOKswe58MJOqBQUm8Yk5D2hfMbNUQhiBXjfzs%2BvV5Q3MMXtC6k8ZGvZ2pOJ86LGp9zqfYBkg2ChH2xQRdj0j7DSJYkUFUzGMeJLkWAfMAPrpR9bUNnHOaX75Sgf%2FbrI5SgT2W3FxkAUQv2A6Jn1loyXiirHGGBQBEJdfTyHfB0qne6Nwzro7uAGOMmbXfeVutm958eys3qo2dB2mPvY0IRkJdLK2k%2Fd%2BQbNx5EG1TWRkVwgk58YUe4JDAAruC8WYg5MAslpiG%2Bay%2BwxpDKUXqMHZEpneGyxhlscddAjvaQYnIi5h1QOJuTyMkMd5P7HtZT%2B%2FoEavoQd7%2FWGRtvUm9sB2Gd57XvvWB%2BokvEEOk33PlcYrJybzQU9ASZMFURm5lkfV3FkbfH44g5rYAzDOytxe1cOu8iCkTwP3CCcm5LYRZ8eWm6IN8IC6nPj5vcDJIXic%2FJ%2BKpn8ovIOZGNIPNVHUcN18VOSpNgXjXzDEKEVQiSZVysROmN%2FNB3psYNl2KGtC4%2FcTu7IYcp5tvavc89O6ntk7YW42LttVqdCKkA0haGJdLjwVD3J7s23hwdzhf%2FeV9YmkaQB4Ji82HBBrT1PC0Cr2ZfA5GVoxOZ2PUwjePr8lyjYjZepHIqi%2F7UWlKcpkIeRKkQjwlUhZech1JuFfMyjZmikt0%2FJWhwIRxn5REKVl0Smaeciabjf0GUx1R3vCiK9%2Fxx0sQ%3D%3D&checksum=173727822994d77e92adf4144cb7a9b8ac8a81867aa2
+    at navigate (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\FrameManager.js:121:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at Frame.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:110:27)
+    at Page.goto (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\Page.js:629:49)
+    at Page.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:111:23)
+    at scrapeEbay (G:\College\STCS\ProjectFiles\sample.js:350:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: net::ERR_NAME_NOT_RESOLVED at https://www.ebay.comhttps://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-Black-White-Red-Coral-Yellow-Blue/273677369436?epid=27023701813&hash=item3fb871405c:m:mQeHUzi9Gm8FdeJ_1TqG-gQ
+    at navigate (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\FrameManager.js:121:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at Frame.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:110:27)
+    at Page.goto (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\Page.js:629:49)
+    at Page.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:111:23)
+    at scrapeEbay (G:\College\STCS\ProjectFiles\sample.js:350:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: net::ERR_NAME_NOT_RESOLVED at https://www.ebay.comhttps://www.ebay.com/itm/Apple-iPhone-XR-64GB-RED-Product-RED-A1984-AT-T-version-GSM-CDMA-NEW/163551593441?epid=5023709650&hash=item26146f43e1:g:IWAAAOSwJFhbmjVZ:sc:USPSPriorityMailPaddedFlatRateEnvelope!90815!US!-1
+    at navigate (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\FrameManager.js:121:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at Frame.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:110:27)
+    at Page.goto (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\Page.js:629:49)
+    at Page.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:111:23)
+    at scrapeEbay (G:\College\STCS\ProjectFiles\sample.js:350:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: net::ERR_NAME_NOT_RESOLVED at https://www.ebay.comhttps://www.ebay.com/itm/Apple-iPhone-XR-64GB-Black-Unlocked-A1984-GSM/223488441612?epid=13023706562&hash=item3408f2fd0c:g:HYAAAOSwjlVcDJnd:sc:USPSPriorityMailPaddedFlatRateEnvelope!90815!US!-1
+    at navigate (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\FrameManager.js:121:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at Frame.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:110:27)
+    at Page.goto (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\Page.js:629:49)
+    at Page.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:111:23)
+    at scrapeEbay (G:\College\STCS\ProjectFiles\sample.js:350:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: net::ERR_NAME_NOT_RESOLVED at https://www.ebay.comhttps://www.ebay.com/itm/Apple-iPhone-XR-64GB-PRODUCT-RED-Unlocked-A1984-GSM/323796220818?epid=8023710610&hash=item4b63c23b92:g:JWEAAOSwy2pcFw3V:sc:USPSPriority!90815!US!-1
+    at navigate (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\FrameManager.js:121:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at Frame.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:110:27)
+    at Page.goto (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\Page.js:629:49)
+    at Page.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:111:23)
+    at scrapeEbay (G:\College\STCS\ProjectFiles\sample.js:350:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: net::ERR_NAME_NOT_RESOLVED at https://www.ebay.comhttps://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-UNLOCKED-WITH-RSIM-12-AT-T-TMOBILE-SHIPS-SAME-DAY/223495694902?hash=item340961aa36:m:mIMp0HYtqLiD_zFjjHovjDw
+    at navigate (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\FrameManager.js:121:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at Frame.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:110:27)
+    at Page.goto (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\Page.js:629:49)
+    at Page.<anonymous> (G:\College\STCS\ProjectFiles\node_modules\puppeteer\lib\helper.js:111:23)
+    at scrapeEbay (G:\College\STCS\ProjectFiles\sample.js:350:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Done
+[]
+Unable to save the product to database
+[]
+Unable to save the product to database
